@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m not currently working on such an important project<br>🌱 I’m currently learning Express.js<br>❓ Ask me about anything related to javascript<br>⚡ Fun fact: javascript is more logical than some people
+🔭 I’m currently working on a telegram bot and an automated linux package installer, both with node.js!<br>🌱 I’m currently learning how to write tests for my node.js programmes<br>❓ Ask me about anything related to javascript<br>⚡ Fun fact: javascript is more logical than some people
 
 
 # 💻 Tech Stack:
