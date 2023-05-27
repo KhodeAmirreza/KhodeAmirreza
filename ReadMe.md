@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some Node.js projects<br>🌱 I’m currently learning how to write tests using Jest.js<br>💬 Ask me about anything related to javascript<br>⚡ Fun fact: javascript is more logical than some people
+🔭 I’m currently working on some Node.js projects<br>🌱 I’m currently learning how to write tests using Jest.js<br>💬 Ask me about anything related to javascript<br>⚡ Fun fact: javascript is hell
 
 
 # 💻 Tech Stack:
